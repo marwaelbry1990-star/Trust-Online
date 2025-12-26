@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://trust-online.vercel.app/sitemap.xml
